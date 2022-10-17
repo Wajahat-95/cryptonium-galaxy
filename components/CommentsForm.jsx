@@ -134,7 +134,7 @@ const CommentsForm = ({ slug }) => {
           value="true"
           />
           <label className='text-gray-500 cursor-pointer ml-2' htmlFor='storeData'>
-            save my e-mail and name for the next time i commecnt.
+            save my e-mail and name for the next time i comment.
           </label>
         </div>
       </div>
